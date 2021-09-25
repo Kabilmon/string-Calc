@@ -47,5 +47,4 @@ public class StringCalculator
             return sum;
         }
     }
-I was insert two more cammonds
 
